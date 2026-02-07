@@ -18,3 +18,8 @@ title: App Pages
 - [Privacy Policy](./SoundMeter/privacy)
 - [Support](./SoundMeter/support)
 - [Terms of Service](./SoundMeter/terms)
+
+## Voice Crumbs
+- [Privacy Policy](./voice-crumbs/privacy)
+- [Support](./voice-crumbs/support)
+- [Terms of Use](./voice-crumbs/terms)
