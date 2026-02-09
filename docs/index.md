@@ -23,3 +23,8 @@ title: App Pages
 - [Privacy Policy](./voice-crumbs/privacy)
 - [Support](./voice-crumbs/support)
 - [Terms of Use](./voice-crumbs/terms)
+
+## AI Workout Timer
+- [Privacy Policy](./ai-workout-timer/privacy)
+- [Support](./ai-workout-timer/support)
+- [Terms of Use](./ai-workout-timer/terms)
