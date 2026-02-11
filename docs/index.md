@@ -28,3 +28,7 @@ title: App Pages
 - [Privacy Policy](./ai-workout-timer/privacy)
 - [Support](./ai-workout-timer/support)
 - [Terms of Use](./ai-workout-timer/terms)
+
+## TAP
+- [Privacy Policy](./tap/privacy)
+- [Support](./tap/support)
