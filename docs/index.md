@@ -32,3 +32,7 @@ title: App Pages
 ## TAP
 - [Privacy Policy](./tap/privacy)
 - [Support](./tap/support)
+
+## Story Stick
+- [Privacy Policy](./story-stick/privacy)
+- [Support](./story-stick/support)
